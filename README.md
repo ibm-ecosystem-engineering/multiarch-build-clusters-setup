@@ -36,7 +36,7 @@ The multiarchitecture pipelines build images for x86, IBM Z (s390x) and IBM Powe
 1. Clone github repository
 
    ```bash
-   git clone https://github.com/aminerachyd/multiarch-build-clusters-setup
+   git clone https://github.com/ibm-ecosystem-lab/multiarch-build-clusters-setup
    ```
 
 2. Create your `variables.tfvars` variables file
